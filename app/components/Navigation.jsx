@@ -18,7 +18,7 @@ var Navigation = () => {
       <div className="top-bar-right">
         <ul className="menu">
           <li className="menu-text">
-            Created by <a href="http://www.facebook.com/cyrille.elie">Cyrille ELIE</a>
+            Created by <a href="http://www.facebook.com/cyrille.elie">Cyrille Elie</a>
           </li>
         </ul>
       </div>
